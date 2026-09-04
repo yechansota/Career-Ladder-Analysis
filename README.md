@@ -64,6 +64,7 @@ Reading only one of the three produces the wrong conclusion. **A** without **B**
 | 50-54 | **−1 step** | 58.7% |
 
 > **Where grade placement cannot be negotiated, someone hired in from outside starts one to two steps below an internal employee of the same age.** That is the reverse of the starting hypothesis.
+<img width="1790" height="1417" alt="01_doorway" src="https://github.com/user-attachments/assets/7d58030b-486d-4ded-ad24-03e7dae69653" />
 
 **Comparisons B and C.**
 
@@ -225,6 +226,8 @@ Odds ratios remain useful because they are **comparable across different base ra
 | Supervisory | **+5.72 pp** | **+7.58 pp** | 2.69 |
 
 All estimates p < 0.0001, 936 clusters.
+<img width="1909" height="1172" alt="04_year_trend" src="https://github.com/user-attachments/assets/cc77828f-cdbd-446b-a840-0d9adb22ca7d" />
+<img width="1713" height="1749" alt="03_threshold_ladder" src="https://github.com/user-attachments/assets/0e980cf6-a267-46ce-ae66-d0da5c55fd87" />
 
 **Evidence** — the pre-registered prediction was "the gap widens at higher grades" (a glass ceiling). **It was wrong.** Percentage points peak at GS-11 and fall, but **odds ratios run 3.66 → 2.99, nearly flat.** The decline in percentage points is an **arithmetic consequence of falling base rates**.
 
@@ -237,6 +240,8 @@ All estimates p < 0.0001, 936 clusters.
 > → In that context the reference figure is the **total effect: 15.79 pp** (26.58 pp at GS-11). The age-matched 11.81 pp is *"the path effect that survives after seniority is removed."*
 
 **Practical interpretation** — a gap present at every height means **the two groups are on different ladders from the ground up**, not blocked at one rung. But **high doors are few**, so a constant relative disadvantage becomes near-complete absence at the top in absolute terms. **What an individual experiences is a ceiling; the cause is different.**
+
+<img width="1790" height="1417" alt="02_vacancy_pyramid" src="https://github.com/user-attachments/assets/8f6f3094-09b3-4e62-b486-6a571e28b93f" />
 
 ---
 
@@ -276,6 +281,8 @@ Compared against incumbents of the same age (813,000 matched, 96.6%), **with spr
 | Transportation | 12.5% | 12.0% | +0.5 pp |
 
 Pre-registered contrast (IT − federal-specific): **−11.09 pp**.
+
+<img width="1711" height="1580" alt="05_occupation_scatter" src="https://github.com/user-attachments/assets/de0b9dd3-e6a2-406d-9d6e-61a2b77595f0" />
 
 **Evidence** — **37.9% of IT new hires enter at GS-13 or above against 6.8% in HR**, a 5.6× difference. IT's transfers (55.4%) also exceed HR's transfers (40.7%). **IT's narrow gap comes from new hires being pulled up, not transfers being held down** — consistent with direct-hire authority bypassing competitive procedure.
 
@@ -322,6 +329,8 @@ Slopes come from a median split of 59 departments. **The per-department gaps abo
 
 **It holds with Defense excluded** (0.0985 vs 0.0619, 58 departments), so it is not one department's artefact.
 
+<img width="1790" height="1417" alt="07_size_seniority" src="https://github.com/user-attachments/assets/474714f3-86df-43d7-914d-314718597a4b" />
+
 **⚠ The moderator is size.** Entered jointly, size survives (−0.201, p = .011) while **closedness does not** (+0.111, p = .143), and the closedness effect also shrinks once the seniority slope is unweighted. **Closedness is therefore not reported as an independent moderator.**
 
 **Practical interpretation** — **in small organisations neither path works.** The binding constraint is not culture but **the count of senior posts**. The intuition *"we're small and nimble, so we're open"* runs against the data.
@@ -346,7 +355,8 @@ Slopes come from a median split of 59 departments. **The per-department gaps abo
 | ≥GS-13 | +0.406 | −0.824 | −0.418 |
 | Supervisory | +0.862 | −0.942 | **−0.080** |
 
-**For supervisory entry the advantage vanishes almost exactly on the transfer path.** The effect appears where the law reaches and only there, which makes it **the rule producing the outcome, not the characteristics of veterans.**
+**For supervisory entry the advantage vanishes almost exactly on the transfer path.** The effect appears where the law reaches and only there, which makes it **the rule <img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/bf61b2e9-1fd9-4519-bc44-6ec3128d4931" /><img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/9a81dbd8-670c-465e-99db-e7fc0a6fad33" />
+ veterans.**
 
 **Practical interpretation** — **policy works only on the channel it is attached to.** A diversity target or experienced-hire policy attached to open competition, in an organisation where most senior roles are filled by internal movement, will **run exactly as designed and change nothing.**
 
@@ -381,10 +391,12 @@ Slopes come from a median split of 59 departments. **The per-department gaps abo
 | 65+ | +10.75 |
 
 **In the early twenties there is no gap.** *(That cell has only 644 transfers, so power is low.)*
+<img width="1909" height="1213" alt="09_age_gap_curve" src="https://github.com/user-attachments/assets/f113dc06-5b62-4d9e-bfdc-5a344d1e2778" />
 
 ---
 
 ### Finding 7 — a degree opens the door but does not carry you up
+<img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/cbccafb4-b49b-4525-b5c1-890e1d5c15e2" />
 
 Share of new hires entering at GS-13 or above:
 
@@ -402,6 +414,7 @@ Share of new hires entering at GS-13 or above:
 **Two observations:**
 1. **A new hire with a doctorate (41.5%) beats a transfer with a bachelor's (33.9%)** — a credential can beat insider status, but it takes a doctorate
 2. **Bachelor's and high school are effectively identical** (9.1% vs 8.9%) — **the threshold sits at master's level**
+<img width="1750" height="1213" alt="08_education_ladder" src="https://github.com/user-attachments/assets/e10896da-6697-4b58-96e0-b9ddc7ab6eaa" />
 
 **A degree opens the door in two different ways** (pre-registered predictions P-C1 and P-C2, both held).
 
@@ -433,6 +446,7 @@ The missingness **means different things in the two groups**: new hires with edu
 ---
 
 ## 8. Robustness
+<img width="1869" height="1027" alt="10_robustness" src="https://github.com/user-attachments/assets/0cd72302-e4ad-4de4-ac34-3bfc38e4193d" />
 
 | Specification | GS-13+ | Reading |
 |---|---:|---|
