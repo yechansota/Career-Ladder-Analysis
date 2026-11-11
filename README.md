@@ -11,11 +11,11 @@ A personal data project measuring **which grade levels are reachable depending o
 
 > **Do people hired from outside get treated better, or do people who stay inside have the advantage?**
 
-You hear both versions at once — that experienced hires are paid above internal staff at the same seniority, and that the people who stay long enough end up holding the posts. **Neither has ever been checked.**
+You hear both versions at once — that experienced hires are paid above internal staff at the same seniority, and that the people who stay long enough end up holding the posts. **Inside most organisations, neither is ever checked.**
 
 No organisation publishes *"here is what we pay experienced hires, and here is what we pay internal promotions."* So the argument always ends in anecdote.
 
-I wanted to know whether this is specific to particular organisations or **structural to organisations as such** — and if structural, whether **changing jobs repeatedly is actually the answer.** Many people act on that belief and it has never been tested.
+I wanted to know whether this is specific to particular organisations or **structural to organisations as such** — and if structural, whether **changing jobs repeatedly is actually the answer.** Many people act on that belief without testing it.
 
 ### Why the U.S. federal government
 
@@ -59,11 +59,11 @@ Reading only one of the three produces the wrong conclusion. **A** without **B**
 
 | Age band | External hire vs same-age incumbent | Share below incumbent |
 |---|---:|---:|
-| 30-34 | **−2 steps** | 66.7% |
-| 40-44 | **−2 steps** | 63.3% |
-| 50-54 | **−1 step** | 58.7% |
+| 30-34 | **−2 grades** | 66.7% |
+| 40-44 | **−2 grades** | 63.3% |
+| 50-54 | **−1 grade** | 58.7% |
 
-> **Where grade placement cannot be negotiated, someone hired in from outside starts one to two steps below an internal employee of the same age.** That is the reverse of the starting hypothesis.
+> **Where grade placement cannot be negotiated, someone hired in from outside starts one to two grades below an internal employee of the same age.** That is the reverse of the starting hypothesis.
 <img width="1790" height="1417" alt="01_doorway" src="https://github.com/user-attachments/assets/7d58030b-486d-4ded-ad24-03e7dae69653" />
 
 **Comparisons B and C.**
@@ -222,14 +222,14 @@ Odds ratios remain useful because they are **comparable across different base ra
 | ≥ GS-9 | **+18.14 pp** | — | 3.66 |
 | ≥ GS-11 | **+19.25 pp** | **+26.58 pp** | 3.61 |
 | ≥ GS-13 | **+11.81 pp** | **+15.79 pp** | 3.06 |
-| ≥ GS-14 | **+5.23 pp** | — | 2.99 |
+| ≥ GS-14 | **+5.23 pp** | — | 2.98 |
 | Supervisory | **+5.72 pp** | **+7.58 pp** | 2.69 |
 
 All estimates p < 0.0001, 936 clusters.
 <img width="1909" height="1172" alt="04_year_trend" src="https://github.com/user-attachments/assets/cc77828f-cdbd-446b-a840-0d9adb22ca7d" />
 <img width="1713" height="1749" alt="03_threshold_ladder" src="https://github.com/user-attachments/assets/0e980cf6-a267-46ce-ae66-d0da5c55fd87" />
 
-**Evidence** — the pre-registered prediction was "the gap widens at higher grades" (a glass ceiling). **It was wrong.** Percentage points peak at GS-11 and fall, but **odds ratios run 3.66 → 2.99, nearly flat.** The decline in percentage points is an **arithmetic consequence of falling base rates**.
+**Evidence** — our initial prediction was "the gap widens at higher grades" (a glass ceiling). **It was wrong.** Percentage points peak at GS-11 and fall, but **odds ratios run 3.66 → 2.98, nearly flat.** The decline in percentage points is an **arithmetic consequence of falling base rates**.
 
 **Year stability:** 3 measures × 10 years = **30 estimates, all the same sign**, coefficient of variation **0.11**. The pattern holds through two changes of administration and a pandemic.
 
@@ -260,7 +260,7 @@ Compared against incumbents of the same age (813,000 matched, 96.6%), **with spr
 
 **Only about one in four land at exactly the same grade**, so the accurate statement is **"no systematic tilt," not "exactly neutral."**
 
-**⚠ This is not age discrimination.** The comparison group is **incumbents of the same age**; it does not set older against younger. The disadvantage attaches to **being newly arrived, not to being older.** And it gets **smaller with age**, not larger — someone entering in their fifties arrives around GS-11, within one step of a same-age incumbent at GS-12. Age discrimination would produce the opposite pattern.
+**⚠ This is not age discrimination.** The comparison group is **incumbents of the same age**; it does not set older against younger. The disadvantage attaches to **being newly arrived, not to being older.** And it gets **smaller with age**, not larger — someone entering in their fifties arrives around GS-11, within one grade of a same-age incumbent at GS-12. Age discrimination would produce the opposite pattern.
 
 **Practical interpretation** — the disadvantage attaches not to *moving* but to **entering without prior experience**.
 
@@ -280,7 +280,7 @@ Compared against incumbents of the same age (813,000 matched, 96.6%), **with spr
 | Medical | 14.7% | 8.4% | +6.3 pp |
 | Transportation | 12.5% | 12.0% | +0.5 pp |
 
-Pre-registered contrast (IT − federal-specific): **−11.09 pp**.
+Planned contrast (IT − federal-specific): **−11.09 pp**.
 
 <img width="1711" height="1580" alt="05_occupation_scatter" src="https://github.com/user-attachments/assets/de0b9dd3-e6a2-406d-9d6e-61a2b77595f0" />
 
@@ -355,8 +355,9 @@ Slopes come from a median split of 59 departments. **The per-department gaps abo
 | ≥GS-13 | +0.406 | −0.824 | −0.418 |
 | Supervisory | +0.862 | −0.942 | **−0.080** |
 
-**For supervisory entry the advantage vanishes almost exactly on the transfer path.** The effect appears where the law reaches and only there, which makes it **the rule <img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/bf61b2e9-1fd9-4519-bc44-6ec3128d4931" /><img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/9a81dbd8-670c-465e-99db-e7fc0a6fad33" />
- veterans.**
+**For supervisory entry the advantage vanishes almost exactly on the transfer path.** The effect appears where the law reaches and only there, which makes it **an effect of the rule, not of veterans themselves.**
+
+<img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/bf61b2e9-1fd9-4519-bc44-6ec3128d4931" />
 
 **Practical interpretation** — **policy works only on the channel it is attached to.** A diversity target or experienced-hire policy attached to open competition, in an organisation where most senior roles are filled by internal movement, will **run exactly as designed and change nothing.**
 
@@ -396,7 +397,6 @@ Slopes come from a median split of 59 departments. **The per-department gaps abo
 ---
 
 ### Finding 7 — a degree opens the door but does not carry you up
-<img width="1750" height="1213" alt="06_veteran_paths" src="https://github.com/user-attachments/assets/cbccafb4-b49b-4525-b5c1-890e1d5c15e2" />
 
 Share of new hires entering at GS-13 or above:
 
@@ -416,7 +416,7 @@ Share of new hires entering at GS-13 or above:
 2. **Bachelor's and high school are effectively identical** (9.1% vs 8.9%) — **the threshold sits at master's level**
 <img width="1750" height="1213" alt="08_education_ladder" src="https://github.com/user-attachments/assets/e10896da-6697-4b58-96e0-b9ddc7ab6eaa" />
 
-**A degree opens the door in two different ways** (pre-registered predictions P-C1 and P-C2, both held).
+**A degree opens the door in two different ways** (initial predictions P-C1 and P-C2, both held).
 
 | | Rule | Scope |
 |---|---|---|
@@ -435,7 +435,7 @@ Education spread, new hires only, after controls:
 
 **⚠ This does not appear before controlling.** Raw, the master's-over-bachelor's step is +13.6% versus +12.9% — **no difference.** **⚠ The occupational classification is imprecise** — two-digit groups cannot track a regulatory boundary (Accounting & Budget holds both accountants, coursework required, and budget analysts, no requirement). **The twofold difference appeared despite that**; refining to four-digit series is backlog.
 
-**⚠ Education-control asymmetry — verified.** Education is missing for **1.97%** of new hires against **0.12%** of transfers (**16.2×**). Dropping all missing-education records moves the estimate by at most **0.159 pp** (pre-registered threshold 0.5 pp), so **the conclusion does not depend on how missingness is handled.**
+**⚠ Education-control asymmetry — verified.** Education is missing for **1.97%** of new hires against **0.12%** of transfers (**16.2×**). Dropping all missing-education records moves the estimate by at most **0.159 pp** (threshold set before the check: 0.5 pp), so **the conclusion does not depend on how missingness is handled.**
 
 The missingness **means different things in the two groups**: new hires with education missing average **GS-4.8** (1.5% reach GS-13+), transfers average **GS-11.2** (34.3%). The former looks like "no degree to record," the latter like a plain record gap.
 
@@ -466,7 +466,7 @@ The missingness **means different things in the two groups**: new hires with edu
 
 ## 9. Figures
 
-`pipeline/make_dashboard.py` reads the actual CSV and DuckDB outputs and emits a **single self-contained HTML file** with no hardcoded numbers.
+`make_dashboard.py` (not yet published) reads the actual CSV and DuckDB outputs and emits a **single self-contained HTML file** with no hardcoded numbers.
 
 | Chart | Finding |
 |---|---|
@@ -485,68 +485,48 @@ The missingness **means different things in the two groups**: new hires with edu
 
 ## 10. Repository Structure
 
+Files currently in this repository:
+
 ```
 README.md                    This document
-README_KO.md                 Korean version
-PUBLISHING.md                GitHub publishing guide: file-by-file decisions, commit order, safety checks
-requirements.txt  .gitignore
-
-docs/
-  EXPLAINER.md               Plain-language explainer (Korean), 16 sections
-  EXPLAINER_EN.md            Plain-language explainer (English), 16 sections
-  RESEARCH_DESIGN.md         Pre-registration, full results, verification history (v2.1)
-  SCHEMA_AUDIT.md            Data dictionary, quality audit, linkage diagnostics (v1.3)
-  LINKEDIN_POST.md           Publication draft (KO/EN)
-
-pipeline/
-  config.py                  Single source for window, filters, codes, thresholds
-  ingest.py                  Version-pinned download with manifest
-  build_analysis.py          DuckDB analysis tables
-  aggregate.py               Empirical Bayes shrinkage, cell suppression, Parity Index
-  estimate.py                Threshold-ladder GLM with cluster-robust SE (H1-H5, Ancillary A)
-  analyze_extensions.py      Integrity audit, sample cascade, occupation levels, agency axes, veteran strata
-  analyze_age.py             Age/tenure channel, seniority slope, education ceiling
-  analyze_credentials.py     Two education rules, geography suppression audit, step-channel check
-  verify_02.py               Spread, education asymmetry, seniority slope re-estimation, collinearity
-  verify_03.py               Education-missingness sensitivity
-  make_annotations.py        Chart annotation layer for institutional changes and data limits
-  make_dashboard.py          Self-contained HTML dashboard generator (--lang ko|en)
-  README.md                  Run order and interpretation rules
-
-archive/                     Diagnostic and patch history, kept rather than discarded
-  README.md                  What each patch fixed and why
-  linkage_diagnostic.py      v1 initial linkage diagnostic
-  linkage_diagnostic_v2.py   v2, stages F/B/C/D/E/G/H
-  diagnose_02.py             Root-cause trace for a TypeError
-  patch_estimate_01..07.py   Seven sequential patches after the first real-data run
-  PATCH_extensions_01.md     Cascade and SQL three-valued-logic fixes (applied; script retired)
+config.py                    Single source for window, filters, codes, thresholds
+ingest.py                    Version-pinned download with manifest
+build_analysis.py            DuckDB analysis tables
+aggregate.py                 Empirical Bayes shrinkage, cell suppression, Parity Index
+analyze_extensions.py        Integrity audit, sample cascade, occupation levels, agency axes, veteran strata
+analyze_age.py               Age/tenure channel, seniority slope, education ceiling
+verify_02.py                 Spread, education asymmetry, seniority slope re-estimation, collinearity
+verify_03.py                 Education-missingness sensitivity
+make_annotations.py          Chart annotation layer for institutional changes and data limits
+01_doorway.png ... 10_robustness.png   Figures used in this README
 ```
+
+**Referenced in this README but not yet published:** `estimate.py` (threshold-ladder GLM with cluster-robust SE, H1-H5), `analyze_credentials.py`, `make_dashboard.py`, `requirements.txt`, `README_KO.md`, `PUBLISHING.md`, the `docs/` folder (explainers, research design, schema audit) and the `archive/` folder (diagnostic and patch history).
 
 ---
 
 ## 11. Reproducing the Analysis
 
 ```bash
-pip install -r requirements.txt
-cd pipeline
+pip install -r requirements.txt      # requirements.txt not yet published
 
 python ingest.py --scope main        # FY2015-2024, about 700 MB, one time
 python make_annotations.py
 python build_analysis.py             # builds the DuckDB tables
 python aggregate.py
-python estimate.py                   # H1-H5 and Ancillary A
+python estimate.py                   # H1-H5 and Ancillary A (not yet published)
 python analyze_extensions.py         # integrity audit and extensions
 python analyze_age.py                # age/tenure and education axes
-python analyze_credentials.py        # credential rules, geography, step channel
+python analyze_credentials.py        # credential rules, geography, step channel (not yet published)
 python verify_02.py
 python verify_03.py
-python make_dashboard.py             # -> docs/dashboard.html
-python make_dashboard.py --lang en   # -> docs/dashboard_en.html
+python make_dashboard.py             # -> docs/dashboard.html (not yet published)
+python make_dashboard.py --lang en   # -> docs/dashboard_en.html (not yet published)
 ```
 
 **Run order follows dependencies.** `build_analysis.py` needs `fwd_cache/*.parquet`; the analysis and verification scripts need `fwd.duckdb`; `make_dashboard.py` needs the CSV outputs of everything before it.
 
-**Optional — linkage diagnostics.** To reproduce the evidence that rejected the individual-tracking design:
+**Optional — linkage diagnostics** (`archive/` not yet published). To reproduce the evidence that rejected the individual-tracking design:
 
 ```bash
 python archive/linkage_diagnostic_v2.py --stage all
@@ -595,7 +575,7 @@ python archive/linkage_diagnostic_v2.py --stage all
 
 | Item | Final statement |
 |---|---|
-| Mobility neutrality | "No systematic tilt" (IQR ±2 steps, 25% exactly equal) |
+| Mobility neutrality | "No systematic tilt" (IQR ±2 grades, 25% exactly equal) |
 | Organisational moderator | **Size only.** Closedness is entangled with size and cannot be separated |
 
 **Backlog with no bearing on conclusions:** four-digit series refinement of the credential classification, dashboard execution on real data.
@@ -619,7 +599,7 @@ The most predictable objection, answered directly.
 No negotiation on grade, grades fixed in law, procedure maximised, discretion minimised.
 
 > **A gap by entry path appeared even where discretion barely exists.**
-> → It **cannot be explained by discretion, negotiation or favouritism.**
+> → It **cannot be explained by pay negotiation**, and discretion has little room to produce it.
 > → Where discretion is far greater, there is **at least this much, with discretionary effects on top.**
 
 So the federal figure is **not an estimate of the private sector but a floor.**
@@ -704,7 +684,9 @@ All recorded in `archive/` with their evidence. **Two of my diagnoses were wrong
 
 ---
 
-## 15. Pre-registration record — 5 right, 5 wrong
+## 15. Prediction record — 4 right, 5 wrong, 1 partly
+
+Predictions were written down before estimation in a local design document. They were not filed with an external registry, so their timing cannot be verified independently.
 
 | Prediction | Outcome |
 |---|---|
@@ -719,7 +701,7 @@ All recorded in `archive/` with their evidence. **Two of my diagnoses were wrong
 | Small organisations would show steeper seniority slopes | **Wrong** — the reverse |
 | The gap would keep widening with age | **Partly** — peaks at 35-39, then flat |
 
-**All five failures are left uncorrected.** No pre-registered threshold was relaxed after seeing results. **And one failed prediction produced the strongest result** — the neutrality of movement.
+**All five failures are left uncorrected.** No prediction or threshold was relaxed after seeing results. **And one failed prediction produced the strongest result** — the neutrality of movement.
 
 ---
 
@@ -727,7 +709,7 @@ All recorded in `archive/` with their evidence. **Two of my diagnoses were wrong
 
 | Question | What the data says |
 |---|---|
-| **What grade for an experienced hire?** | **12 more per 100** matched people reach GS-13+ (16 without matching on age). Raw medians differ by 5 steps (GS-12 vs GS-7) |
+| **What grade for an experienced hire?** | **12 more per 100** matched people reach GS-13+ (16 without matching on age). Raw medians differ by 5 grades (GS-12 vs GS-7) |
 | **Which occupation is most closed?** | HR (new hires reach GS-13+ at **6.8%**), Investigation (5.4%), Legal support (0.8%). IT is 37.9% |
 | **The most striking comparison** | **A first-time entrant into IT (37.9%) matches a transfer into HR (40.7%)** |
 | **Is my organisation open?** | **Smaller means more closed.** The reverse of the "small and nimble" intuition |
@@ -744,7 +726,7 @@ Full discussion: [Plain-Language Explainer](docs/EXPLAINER_EN.md)
 - Aggregate outputs only; **cells of 10 or fewer suppressed** (adopting OPM's own standard)
 - Record-level outputs blocked by `.gitignore`
 - Every file's API version recorded and pinned. **Results from files of different versions are never compared**
-- Pre-registered predictions and thresholds were not revised after seeing results
+- Initial predictions and thresholds were not revised after seeing results
 - The record-linkage design was rejected, and the rejection evidence is fully documented in `docs/SCHEMA_AUDIT.md`
 
 ---
