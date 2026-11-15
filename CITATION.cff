@@ -1,1 +1,17 @@
-
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Which Doors Open for Outsiders? Vacancy Access in the U.S. Federal Internal Labor Market"
+abstract: "A study of which grade levels are reachable depending on how a person enters an organisation, comparing interagency transfers with new hires using ten years of U.S. federal personnel records (OPM Federal Workforce Data)."
+authors:
+  - family-names: Kim
+    given-names: Yechan
+    alias: Sean Kim
+repository-code: "https://github.com/yechansota/Career-Ladder-Analysis"
+license: MIT
+keywords:
+  - internal labor markets
+  - ports of entry
+  - federal workforce
+  - career ladders
+  - people analytics
